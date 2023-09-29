@@ -1,6 +1,8 @@
 SQL Data Exploration
 Dataset: Coronavirus (Covid-19) Deaths dataset from ourworldindata.org
 Dataset source: https://ourworldindata.org/covid-deaths
+Used Excel to prepare the data to be imported into BigQuery
+Used BigQuery to explore the dataset
 
 1. Looking at total cases vs total deaths
 -- Total Cases vs Total Deaths --
